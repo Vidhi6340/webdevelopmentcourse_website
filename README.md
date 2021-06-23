@@ -1,2 +1,1 @@
-# webdevelopmentcourse_website
- 
+I have attempted to make a website for the imformation about a course using HTML5, CSS and Bootstrap. To run the website on your desktop download the files in a single folder and run index.html file in a browser. 
